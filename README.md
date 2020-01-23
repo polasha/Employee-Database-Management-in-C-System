@@ -1,4 +1,4 @@
-# Employee-Database-Management-in-C-System
+# Employee-Database-Management-in-C++-System
 This is a simple Employee database management system which developed using C++. 
 It utilizes file handling and shows  the  class and object of the programming language. 
 This project will teach you how to add, list, modify and delete records in file in C++ language. It is very effective and simple understanding for beginners.
